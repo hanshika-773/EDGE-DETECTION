@@ -1,6 +1,6 @@
 # **EXPERIMENT NO. 6: EDGE DETECTION**
-# **NAME : KRISHNA KUMAR R**
-# **REG NO : 212223230107**
+# **NAME : HANSHIKA VARTHINI
+# **REG NO : 212223240041
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
